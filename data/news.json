@@ -1,214 +1,111 @@
 {
- "updated": "2026-11-10T19:35:08Z",
+ "updated": "2026-11-10T20:08:35Z",
  "source": "GDELT Project",
- "national": [],
+ "national": [
+  {
+   "title": "Maine GOP Lawmaker Regrets Suggesting That if Abortion Is Legal, Rape Should Be Too",
+   "source": "thenation.com",
+   "url": "https://www.thenation.com/article/archive/maine-gop-lawmaker-regrets-suggesting-if-abortion-legal-rape-should-be-too/",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Tucker Carlson and his guest suggest abortion is child sacrifice performed for demons",
+   "source": "mediamatters.org",
+   "url": "https://www.mediamatters.org/tucker-carlson/tucker-carlson-and-his-guest-suggest-abortion-child-sacrifice-performed-demons",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward | The Arkansas Democrat - Gazette",
+   "source": "arkansasonline.com",
+   "url": "https://www.arkansasonline.com/news/2026/nov/09/judge-allows-lawsuit-challenging-arkansas/",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Feds plan to take over Texas lawsuit against Planned Parenthood",
+   "source": "ksat.com",
+   "url": "https://www.ksat.com/news/texas/2026/11/08/feds-plan-to-take-over-texas-lawsuit-against-planned-parenthood/",
+   "date": "2026-11-08"
+  },
+  {
+   "title": "At the dawn of a new Texas frontier, advocates consider possibilities for abortion rights",
+   "source": "kwbu.org",
+   "url": "https://www.kwbu.org/news-from-across-texas/2026-11-07/at-the-dawn-of-a-new-texas-frontier-advocates-consider-possibilities-for-abortion-rights",
+   "date": "2026-11-07"
+  },
+  {
+   "title": "Nevada voters approve abortion rights amendment for a second time",
+   "source": "mynews4.com",
+   "url": "https://mynews4.com/news/local/nevada-voters-approve-abortion-rights-amendment-for-a-second-time-election-voting-voters-midterms-midterm-democrat-republican-politics-pro-life-pro-choice-political-nicole-cannizzaro-attorney-general",
+   "date": "2026-11-07"
+  },
+  {
+   "title": "Manitowoc Planned Parenthood to close",
+   "source": "wtaq.com",
+   "url": "https://wtaq.com/2026/11/06/1153068/",
+   "date": "2026-11-07"
+  },
+  {
+   "title": "Dubuque pro - life group calls for more pregnancy support for women after Marion newborn death",
+   "source": "kcrg.com",
+   "url": "https://www.kcrg.com/2026/11/06/dubuque-pro-life-group-calls-more-pregnancy-support-women-after-marion-newborns-death/",
+   "date": "2026-11-07"
+  }
+ ],
  "states": {
   "AL": [],
-  "AK": [
+  "AK": [],
+  "AZ": [],
+  "AR": [
    {
-    "title": "The Reverse Ginsburg Scenario : Democrats May Only Need to Wait Rather than Pack the Court",
-    "source": "jonathanturley.org",
-    "url": "https://jonathanturley.org/2026/11/09/the-reverse-ginsburg-scenario-democrats-may-only-need-to-wait-rather-than-pack-the-court/comment-page-2/",
+    "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward | The Arkansas Democrat - Gazette",
+    "source": "arkansasonline.com",
+    "url": "https://www.arkansasonline.com/news/2026/nov/09/judge-allows-lawsuit-challenging-arkansas/",
     "date": "2026-11-10"
-   },
-   {
-    "title": "A record number of women will serve in the next Congress",
-    "source": "cbs58.com",
-    "url": "https://www.cbs58.com/news/a-record-number-of-women-will-serve-in-the-next-congress",
-    "date": "2026-11-10"
-   },
-   {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "Democrats will be able to stop Republican Supreme Court nominees – NBC 7 San Diego",
-    "source": "nbcsandiego.com",
-    "url": "https://www.nbcsandiego.com/news/national-international/republicans-supreme-court-nominees-democrats-votes-stop/4098356/",
-    "date": "2026-11-07"
-   },
-   {
-    "title": "Democrats will be able to stop Republican Supreme Court nominees – NBC Bay Area",
-    "source": "nbcbayarea.com",
-    "url": "https://www.nbcbayarea.com/news/national-international/republicans-supreme-court-nominees-democrats-votes-stop/4171916/",
-    "date": "2026-11-07"
    }
   ],
-  "AZ": [],
-  "AR": [],
   "CA": [],
   "CO": [],
   "CT": [],
   "DE": [],
   "FL": [],
-  "GA": [
-   {
-    "title": "A record number of women will serve in the next Congress",
-    "source": "cbs58.com",
-    "url": "https://www.cbs58.com/news/a-record-number-of-women-will-serve-in-the-next-congress",
-    "date": "2026-11-10"
-   },
-   {
-    "title": "Dont Talk to Me About the Price of Gas",
-    "source": "pjmedia.com",
-    "url": "https://pjmedia.com/stacey-lennox/2026/11/08/dont-talk-to-me-about-candidate-quality-n4959159",
-    "date": "2026-11-09"
-   },
-   {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "Democrats could dust off plans for Supreme Court reforms after capturing House and Senate",
-    "source": "cbsnews.com",
-    "url": "https://www.cbsnews.com/news/democrats-house-senate-supreme-court-reforms/",
-    "date": "2026-11-06"
-   },
-   {
-    "title": "IVF Patients , Doctors Navigate Fetal Personhood Law Unknowns",
-    "source": "medscape.com",
-    "url": "https://www.medscape.com/s/viewarticle/ivf-patients-doctors-navigate-fetal-personhood-laws-unknowns-2026a10016dp",
-    "date": "2026-11-06"
-   }
-  ],
+  "GA": [],
   "HI": [],
   "ID": [],
   "IL": [],
   "IN": [],
-  "IA": [
-   {
-    "title": "A record number of women will serve in the next Congress",
-    "source": "cbs58.com",
-    "url": "https://www.cbs58.com/news/a-record-number-of-women-will-serve-in-the-next-congress",
-    "date": "2026-11-10"
-   },
-   {
-    "title": "Democrats get a religious win . Will they grab hold of it ?",
-    "source": "cruxnow.com",
-    "url": "https://cruxnow.com/news-analysis/2026/11/democrats-get-a-religious-win-will-they-grab-hold-of-it/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "Healthcare , economy top Democrat priorities after midterms",
-    "source": "fairfieldsuntimes.com",
-    "url": "https://www.fairfieldsuntimes.com/news/national/healthcare-economy-top-democrat-priorities-after-midterms/article_c0a0cec7-1882-549f-9937-93510a94e4ca.html",
-    "date": "2026-11-07"
-   },
-   {
-    "title": "Democrats will be able to stop Republican Supreme Court nominees – NBC 7 San Diego",
-    "source": "nbcsandiego.com",
-    "url": "https://www.nbcsandiego.com/news/national-international/republicans-supreme-court-nominees-democrats-votes-stop/4098356/",
-    "date": "2026-11-07"
-   }
-  ],
+  "IA": [],
   "KS": [],
   "KY": [],
   "LA": [],
   "ME": [
    {
-    "title": "Maine young Catholics are flocking to the church Latin Mass",
-    "source": "bangordailynews.com",
-    "url": "https://www.bangordailynews.com/2026/11/09/portland/portland-culture/maines-young-catholics-latin-mass/",
-    "date": "2026-11-10"
-   },
-   {
-    "title": "Maine GOP Lawmaker Regrets Suggesting That if Abortion Is Legal , Rape Should Be Too",
+    "title": "Maine GOP Lawmaker Regrets Suggesting That if Abortion Is Legal, Rape Should Be Too",
     "source": "thenation.com",
     "url": "https://www.thenation.com/article/archive/maine-gop-lawmaker-regrets-suggesting-if-abortion-legal-rape-should-be-too/",
     "date": "2026-11-10"
-   },
-   {
-    "title": "Paul LePage lands in Washington , pitching himself as a dealmaker",
-    "source": "bangordailynews.com",
-    "url": "https://www.bangordailynews.com/2026/11/09/politics/washington/paul-lepage-washington-dealmaker/",
-    "date": "2026-11-10"
-   },
-   {
-    "title": "Democrats get a religious win . Will they grab hold of it ?",
-    "source": "cruxnow.com",
-    "url": "https://cruxnow.com/news-analysis/2026/11/democrats-get-a-religious-win-will-they-grab-hold-of-it/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
-    "date": "2026-11-08"
    }
   ],
-  "MD": [
-   {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "Time to fight Virginia on abortion in the courts",
-    "source": "americanthinker.com",
-    "url": "https://www.americanthinker.com/blog/2026/11/time-to-fight-virginia-on-abortion-in-the-courts/",
-    "date": "2026-11-06"
-   },
-   {
-    "title": "Democrats could dust off plans for Supreme Court reforms after capturing House and Senate",
-    "source": "cbsnews.com",
-    "url": "https://www.cbsnews.com/news/democrats-house-senate-supreme-court-reforms/",
-    "date": "2026-11-06"
-   },
-   {
-    "title": "DOJ launches criminal probe into Supreme Court leak that exposed ruling overturning Roe v Wade",
-    "source": "fox35orlando.com",
-    "url": "https://www.fox35orlando.com/news/doj-launches-criminal-probe-supreme-court-leak-exposed-ruling-overturning-roe-v-wade",
-    "date": "2026-11-06"
-   }
-  ],
+  "MD": [],
   "MA": [],
   "MI": [],
   "MN": [],
   "MS": [],
-  "MO": [],
-  "MT": [],
-  "NE": [],
-  "NV": [
-   {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "Nevada voters approve abortion rights amendment for a second time",
-    "source": "mynews4.com",
-    "url": "https://mynews4.com/news/local/nevada-voters-approve-abortion-rights-amendment-for-a-second-time-election-voting-voters-midterms-midterm-democrat-republican-politics-pro-life-pro-choice-political-nicole-cannizzaro-attorney-general",
-    "date": "2026-11-07"
-   },
+  "MO": [
    {
     "title": "Missouri Should Have No Regrets Trying to Save Babies From Abortion",
     "source": "lifenews.com",
     "url": "https://www.lifenews.com/2026/11/05/missouri-should-have-no-regrets-trying-to-save-babies-from-abortion/",
     "date": "2026-11-06"
-   },
+   }
+  ],
+  "MT": [],
+  "NE": [],
+  "NV": [
    {
-    "title": "Meet Texas Newly Elected Attorney General , Who Wants to Put a Stop to Elon Musk Greedy Billionaire Hijinks",
-    "source": "esquire.com",
-    "url": "https://www.esquire.com/news-politics/politics/a74349708/texas-attorney-general-elect-nathan-johnson-elon-musk/",
-    "date": "2026-11-06"
-   },
-   {
-    "title": "After stunning wins , Democrats will hold the majority of governorships nationwide",
-    "source": "wvxu.org",
-    "url": "https://www.wvxu.org/2026-11-05/after-stunning-wins-democrats-will-hold-the-majority-of-governorships-nationwide",
-    "date": "2026-11-06"
+    "title": "Nevada voters approve abortion rights amendment for a second time",
+    "source": "mynews4.com",
+    "url": "https://mynews4.com/news/local/nevada-voters-approve-abortion-rights-amendment-for-a-second-time-election-voting-voters-midterms-midterm-democrat-republican-politics-pro-life-pro-choice-political-nicole-cannizzaro-attorney-general",
+    "date": "2026-11-07"
    }
   ],
   "NH": [],
@@ -220,57 +117,40 @@
   "OH": [],
   "OK": [],
   "OR": [],
-  "PA": [],
+  "PA": [
+   {
+    "title": "Pro - Life Group Fights Against Taxpayer - Funded Abortion in Pennsylvania",
+    "source": "lifenews.com",
+    "url": "https://www.lifenews.com/2026/11/05/pro-life-group-fights-against-taxpayer-funded-abortion-in-pennsylvania/",
+    "date": "2026-11-05"
+   }
+  ],
   "RI": [],
   "SC": [],
   "SD": [],
   "TN": [],
-  "TX": [],
-  "UT": [],
-  "VT": [
+  "TX": [
    {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
+    "title": "Feds plan to take over Texas lawsuit against Planned Parenthood",
+    "source": "ksat.com",
+    "url": "https://www.ksat.com/news/texas/2026/11/08/feds-plan-to-take-over-texas-lawsuit-against-planned-parenthood/",
     "date": "2026-11-08"
    },
    {
-    "title": "Guest Host , Bishop E . W . Jackson , chimes in on the Midterm Election",
-    "source": "afr.net",
-    "url": "https://afr.net:443/podcasts/the-hamilton-corner-with-abraham-hamilton-iii/2026/october/guest-host-bishop-ew-jackson-chimes-in-on-the-midterm-election/",
-    "date": "2026-11-06"
+    "title": "At the dawn of a new Texas frontier, advocates consider possibilities for abortion rights",
+    "source": "kwbu.org",
+    "url": "https://www.kwbu.org/news-from-across-texas/2026-11-07/at-the-dawn-of-a-new-texas-frontier-advocates-consider-possibilities-for-abortion-rights",
+    "date": "2026-11-07"
    }
   ],
+  "UT": [],
+  "VT": [],
   "VA": [
    {
-    "title": "A record number of women will serve in the next Congress",
-    "source": "cbs58.com",
-    "url": "https://www.cbs58.com/news/a-record-number-of-women-will-serve-in-the-next-congress",
-    "date": "2026-11-10"
-   },
-   {
-    "title": "Faith Beyond The Ballot Box : Christian Leaders Call For Hope And Perseverance After Midterm Defeats",
-    "source": "wbap.com",
-    "url": "https://www.wbap.com/2026/11/08/faith-beyond-the-ballot-box-christian-leaders-call-for-hope-and-perseverance-after-midterm-defeats/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "GNR Sunday 11 / 8 ☀️ Good News Roundup ☀️ 71 Pips from Bill and Jess ☀️ Poll : After this week elections , did you cry with joy and / or gratitude ?",
-    "source": "dailykos.com",
-    "url": "https://www.dailykos.com/stories/2026/11/8/800124907/community/gnr-sunday-11-8-%E2%98%80%EF%B8%8F-good-news-roundup-%E2%98%80%EF%B8%8F-71-pips-from-bill-and-jess-%E2%98%80%EF%B8%8F-poll/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "Love cuts deeper than politic : Socialist philosopher and conservative legal scholar come to Whitworth to talk about tribalism , integrity , and their 20 - year friendship",
-    "source": "spokesman.com",
-    "url": "https://www.spokesman.com/stories/2026/nov/08/love-cuts-deeper-than-politics-socialist-philosoph/",
-    "date": "2026-11-08"
-   },
-   {
-    "title": "Pope Leo XIV lands in Uruguay to begin South American tour",
-    "source": "wsbradio.com",
-    "url": "https://www.wsbradio.com/news/world/after-cancer-surgery/VIJ4Q37Z5I22BJNJCWXQPBVHQ4/",
-    "date": "2026-11-07"
+    "title": "Time to fight Virginia on abortion in the courts",
+    "source": "americanthinker.com",
+    "url": "https://www.americanthinker.com/blog/2026/11/time-to-fight-virginia-on-abortion-in-the-courts/",
+    "date": "2026-11-06"
    }
   ],
   "WA": [],
