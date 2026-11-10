@@ -28,11 +28,16 @@ STATES = {
     "SD": "South Dakota", "TN": "Tennessee", "TX": "Texas", "UT": "Utah", "VT": "Vermont",
     "VA": "Virginia", "WA": "Washington State", "WV": "West Virginia", "WI": "Wisconsin", "WY": "Wyoming",
 }
+def _group(names):
+    return "abortion (" + " OR ".join(f'"{n}"' if " " in n else n for n in names) + ")"
+
+
+_NAMES = [n.replace(" State", "") for n in STATES.values()]
+# Two broad national searches, then one search per group of states so smaller states are not crowded out.
 QUERIES = [
-    "abortion",
-    '(mifepristone OR "abortion pill" OR "reproductive rights" OR "Planned Parenthood" OR "reproductive health")',
-]
-TIMESPAN = "7d"
+    ("abortion", "7d"),
+    ('(mifepristone OR "abortion pill" OR "reproductive rights" OR "Planned Parenthood" OR "reproductive health")', "7d"),
+] + [(_group(_NAMES[i:i + 6]), "14d") for i in range(0, len(_NAMES), 6)]
 PER_STATE = 5
 NATIONAL = 8
 STATE_DAYS = 45      # how long a state headline stays in the feed
@@ -63,9 +68,16 @@ def log(*args):
 
 def clean(title):
     t = " ".join((title or "").split())
+    t = t.split(" | ")[0]                                  # drop "| Site Name" suffixes
     t = re.sub(r"\s+'\s*(s|t|re|ve|ll|d)\b", r"'\1", t)   # GDELT writes "Trump ' s"
     t = re.sub(r"\s+([,.;:!?%)\]])", r"\1", t)
     t = re.sub(r"([(\[])\s+", r"\1", t)
+    # GDELT also writes "Pro - Life". Rejoin hyphenated words, but keep a trailing " - Site Name".
+    while True:
+        m = re.search(r"(\w) - (\w)", t)
+        if not m or len(t[m.end() - 1:].split()) <= 3:
+            break
+        t = t[:m.start() + 1] + "-" + t[m.end() - 1:]
     return t
 
 
@@ -73,11 +85,11 @@ def key(item):
     return re.sub(r"[^a-z0-9]", "", item.get("title", "").lower())[:80]
 
 
-def fetch(query):
+def fetch(query, timespan):
     params = urllib.parse.urlencode({
         "query": f"{query} sourcecountry:US sourcelang:english",
         "mode": "artlist", "format": "json", "maxrecords": 250,
-        "timespan": TIMESPAN, "sort": "datedesc",
+        "timespan": timespan, "sort": "datedesc",
     })
     req = urllib.request.Request(f"{API}?{params}", headers={"User-Agent": "abortion-access-map/1.1 (daily refresh)"})
     for attempt, wait in enumerate([0] + RETRY_WAITS):
@@ -145,20 +157,23 @@ def main():
             old = {}
     now = datetime.now(timezone.utc)
 
-    found, ok = [], False
-    for i, q in enumerate(QUERIES):
+    found, national_found, ok = [], [], False
+    for i, (q, span) in enumerate(QUERIES):
         if i:
             time.sleep(PAUSE_SECONDS)
         log("query:", q)
         try:
-            items = fetch(q)
+            items = fetch(q, span)
             ok = True
             log(f"  {len(items)} articles")
             found.extend(items)
+            if span == "7d":
+                national_found.extend(items)
         except Exception as e:
             log("  failed:", e)
 
     relevant = [i for i in found if on_topic(i)]
+    national_relevant = [i for i in national_found if on_topic(i)]
     log(f"{len(relevant)} of {len(found)} headlines are on topic")
 
     state_since = (now - timedelta(days=STATE_DAYS)).strftime("%Y-%m-%d")
@@ -172,7 +187,7 @@ def main():
     data = {
         "updated": now.strftime("%Y-%m-%dT%H:%M:%SZ") if ok else old.get("updated"),
         "source": "GDELT Project",
-        "national": merge(relevant, old.get("national", []), nat_since, NATIONAL),
+        "national": merge(national_relevant, old.get("national", []), nat_since, NATIONAL),
         "states": {abbr: merge(by_state[abbr], old_states.get(abbr, []), state_since, PER_STATE, abbr) for abbr in STATES},
     }
     OUT.parent.mkdir(parents=True, exist_ok=True)
