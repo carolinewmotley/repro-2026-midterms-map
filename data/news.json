@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-10T20:08:35Z",
+ "updated": "2026-11-10T20:21:41Z",
  "source": "GDELT Project",
  "national": [
+  {
+   "title": "Police investigating hit-and-run at West Eugene Planned Parenthood",
+   "source": "klcc.org",
+   "url": "https://www.klcc.org/crime-law-justice/2026-11-09/police-investigating-hit-and-run-at-west-eugene-planned-parenthood",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Vehicle slams into Eugene Planned Parenthood, leaves large hole; hit-and - run probed",
+   "source": "kcby.com",
+   "url": "https://kcby.com/news/local/vehicle-slams-into-eugene-planned-parenthood-leaves-large-hole-hit-and-run-probed-lane-county-oregon",
+   "date": "2026-11-10"
+  },
   {
    "title": "Maine GOP Lawmaker Regrets Suggesting That if Abortion Is Legal, Rape Should Be Too",
    "source": "thenation.com",
@@ -37,18 +49,6 @@
    "source": "mynews4.com",
    "url": "https://mynews4.com/news/local/nevada-voters-approve-abortion-rights-amendment-for-a-second-time-election-voting-voters-midterms-midterm-democrat-republican-politics-pro-life-pro-choice-political-nicole-cannizzaro-attorney-general",
    "date": "2026-11-07"
-  },
-  {
-   "title": "Manitowoc Planned Parenthood to close",
-   "source": "wtaq.com",
-   "url": "https://wtaq.com/2026/11/06/1153068/",
-   "date": "2026-11-07"
-  },
-  {
-   "title": "Dubuque pro - life group calls for more pregnancy support for women after Marion newborn death",
-   "source": "kcrg.com",
-   "url": "https://www.kcrg.com/2026/11/06/dubuque-pro-life-group-calls-more-pregnancy-support-women-after-marion-newborns-death/",
-   "date": "2026-11-07"
   }
  ],
  "states": {
@@ -56,6 +56,12 @@
   "AK": [],
   "AZ": [],
   "AR": [
+   {
+    "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward",
+    "source": "arkansasonline.com",
+    "url": "https://www.arkansasonline.com/news/2026/nov/09/judge-allows-lawsuit-challenging-arkansas/",
+    "date": "2026-11-10"
+   },
    {
     "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward | The Arkansas Democrat - Gazette",
     "source": "arkansasonline.com",
@@ -119,7 +125,7 @@
   "OR": [],
   "PA": [
    {
-    "title": "Pro - Life Group Fights Against Taxpayer - Funded Abortion in Pennsylvania",
+    "title": "Pro-Life Group Fights Against Taxpayer-Funded Abortion in Pennsylvania",
     "source": "lifenews.com",
     "url": "https://www.lifenews.com/2026/11/05/pro-life-group-fights-against-taxpayer-funded-abortion-in-pennsylvania/",
     "date": "2026-11-05"
