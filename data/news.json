@@ -1,18 +1,30 @@
 {
- "updated": "2026-11-10T20:21:41Z",
+ "updated": "2026-11-11T18:44:28Z",
  "source": "GDELT Project",
  "national": [
   {
-   "title": "Police investigating hit-and-run at West Eugene Planned Parenthood",
-   "source": "klcc.org",
-   "url": "https://www.klcc.org/crime-law-justice/2026-11-09/police-investigating-hit-and-run-at-west-eugene-planned-parenthood",
-   "date": "2026-11-10"
+   "title": "Oregon two Planned Parenthood announce changes to protect patient access",
+   "source": "kezi.com",
+   "url": "https://www.kezi.com/news/local/oregons-two-planned-parenthood-announce-changes-to-protect-patient-access/article_5a818757-e98d-4b64-af1e-f9dd1810afc5.html",
+   "date": "2026-11-11"
   },
   {
-   "title": "Vehicle slams into Eugene Planned Parenthood, leaves large hole; hit-and - run probed",
-   "source": "kcby.com",
-   "url": "https://kcby.com/news/local/vehicle-slams-into-eugene-planned-parenthood-leaves-large-hole-hit-and-run-probed-lane-county-oregon",
-   "date": "2026-11-10"
+   "title": "Guess Who No Longer Afraid to Go After Planned Parenthood?",
+   "source": "jezebel.com",
+   "url": "https://www.jezebel.com/guess-whos-no-longer-afraid-to-go-after-planned-parenthood",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "9th Circuit Hands Trump Administration Two Wins in Portland ICE Protest Cases With a Dobbs Twist",
+   "source": "redstate.com",
+   "url": "https://redstate.com/smoosieq/2026/11/10/9th-circuit-hands-trump-administration-two-wins-in-portland-ice-protest-cases-with-a-dobbs-twist-n2209256",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "West Eugene Planned Parenthood remains closed as police investigate hit - and - run",
+   "source": "kezi.com",
+   "url": "https://www.kezi.com/news/local/west-eugene-planned-parenthood-remains-closed-as-police-investigate-hit-and-run/article_d1240b86-e1a6-40c9-9192-6ba8a357fde1.html",
+   "date": "2026-11-11"
   },
   {
    "title": "Maine GOP Lawmaker Regrets Suggesting That if Abortion Is Legal, Rape Should Be Too",
@@ -27,28 +39,16 @@
    "date": "2026-11-10"
   },
   {
-   "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward | The Arkansas Democrat - Gazette",
+   "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward",
    "source": "arkansasonline.com",
    "url": "https://www.arkansasonline.com/news/2026/nov/09/judge-allows-lawsuit-challenging-arkansas/",
    "date": "2026-11-10"
   },
   {
-   "title": "Feds plan to take over Texas lawsuit against Planned Parenthood",
-   "source": "ksat.com",
-   "url": "https://www.ksat.com/news/texas/2026/11/08/feds-plan-to-take-over-texas-lawsuit-against-planned-parenthood/",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "At the dawn of a new Texas frontier, advocates consider possibilities for abortion rights",
-   "source": "kwbu.org",
-   "url": "https://www.kwbu.org/news-from-across-texas/2026-11-07/at-the-dawn-of-a-new-texas-frontier-advocates-consider-possibilities-for-abortion-rights",
-   "date": "2026-11-07"
-  },
-  {
-   "title": "Nevada voters approve abortion rights amendment for a second time",
-   "source": "mynews4.com",
-   "url": "https://mynews4.com/news/local/nevada-voters-approve-abortion-rights-amendment-for-a-second-time-election-voting-voters-midterms-midterm-democrat-republican-politics-pro-life-pro-choice-political-nicole-cannizzaro-attorney-general",
-   "date": "2026-11-07"
+   "title": "Police investigating hit-and-run at West Eugene Planned Parenthood",
+   "source": "klcc.org",
+   "url": "https://www.klcc.org/crime-law-justice/2026-11-09/police-investigating-hit-and-run-at-west-eugene-planned-parenthood",
+   "date": "2026-11-10"
   }
  ],
  "states": {
@@ -122,7 +122,14 @@
   "ND": [],
   "OH": [],
   "OK": [],
-  "OR": [],
+  "OR": [
+   {
+    "title": "Oregon two Planned Parenthood announce changes to protect patient access",
+    "source": "kezi.com",
+    "url": "https://www.kezi.com/news/local/oregons-two-planned-parenthood-announce-changes-to-protect-patient-access/article_5a818757-e98d-4b64-af1e-f9dd1810afc5.html",
+    "date": "2026-11-11"
+   }
+  ],
   "PA": [
    {
     "title": "Pro-Life Group Fights Against Taxpayer-Funded Abortion in Pennsylvania",
