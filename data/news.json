@@ -1,7 +1,31 @@
 {
- "updated": "2026-11-11T18:44:28Z",
+ "updated": "2026-11-12T18:58:23Z",
  "source": "GDELT Project",
  "national": [
+  {
+   "title": "Facing financial pressure, Oregon regional Planned Parenthood providers merge to cover state",
+   "source": "heraldandnews.com",
+   "url": "http://www.heraldandnews.com/news/facing-financial-pressure-oregon-s-regional-planned-parenthood-providers-merge-to-cover-state/article_0afc3c1d-3547-42e5-af80-41832eee1e28.html",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Woman accused of threatening to Kirk those at anti-abortion booth on local campus",
+   "source": "local12.com",
+   "url": "https://local12.com/news/local/woman-accused-threatening-kirk-those-at-anti-abortion-booth-campus-alixandra-patterson-panic-charlie-menacing-assassination-police-fbi-butler-county-miami",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "Witchcraft, blue wave spells, and abortion cheers: Rick Burgess says the midterms may be God judgment",
+   "source": "theblaze.com",
+   "url": "https://www.theblaze.com/shows/strange-encounters/witchcraft-blue-wave-spells-and-abortion-cheers-rick-burgess-says-the-midterms-may-be-gods-judgment",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "State Planned Parenthood affiliates to combine; 75 workers losing jobs",
+   "source": "kval.com",
+   "url": "https://kval.com/news/local/states-planned-parenthood-affiliates-to-combine-75-workers-losing-jobs",
+   "date": "2026-11-12"
+  },
   {
    "title": "Oregon two Planned Parenthood announce changes to protect patient access",
    "source": "kezi.com",
@@ -25,30 +49,6 @@
    "source": "kezi.com",
    "url": "https://www.kezi.com/news/local/west-eugene-planned-parenthood-remains-closed-as-police-investigate-hit-and-run/article_d1240b86-e1a6-40c9-9192-6ba8a357fde1.html",
    "date": "2026-11-11"
-  },
-  {
-   "title": "Maine GOP Lawmaker Regrets Suggesting That if Abortion Is Legal, Rape Should Be Too",
-   "source": "thenation.com",
-   "url": "https://www.thenation.com/article/archive/maine-gop-lawmaker-regrets-suggesting-if-abortion-legal-rape-should-be-too/",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Tucker Carlson and his guest suggest abortion is child sacrifice performed for demons",
-   "source": "mediamatters.org",
-   "url": "https://www.mediamatters.org/tucker-carlson/tucker-carlson-and-his-guest-suggest-abortion-child-sacrifice-performed-demons",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward",
-   "source": "arkansasonline.com",
-   "url": "https://www.arkansasonline.com/news/2026/nov/09/judge-allows-lawsuit-challenging-arkansas/",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Police investigating hit-and-run at West Eugene Planned Parenthood",
-   "source": "klcc.org",
-   "url": "https://www.klcc.org/crime-law-justice/2026-11-09/police-investigating-hit-and-run-at-west-eugene-planned-parenthood",
-   "date": "2026-11-10"
   }
  ],
  "states": {
@@ -123,6 +123,12 @@
   "OH": [],
   "OK": [],
   "OR": [
+   {
+    "title": "Facing financial pressure, Oregon regional Planned Parenthood providers merge to cover state",
+    "source": "heraldandnews.com",
+    "url": "http://www.heraldandnews.com/news/facing-financial-pressure-oregon-s-regional-planned-parenthood-providers-merge-to-cover-state/article_0afc3c1d-3547-42e5-af80-41832eee1e28.html",
+    "date": "2026-11-12"
+   },
    {
     "title": "Oregon two Planned Parenthood announce changes to protect patient access",
     "source": "kezi.com",
