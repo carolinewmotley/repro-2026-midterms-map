@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:11:39Z",
+ "updated": "2026-11-15T17:47:45Z",
  "source": "GDELT Project",
  "national": [
   {
@@ -21,12 +21,6 @@
    "date": "2026-11-12"
   },
   {
-   "title": "State Planned Parenthood affiliates to combine; 75 workers losing jobs",
-   "source": "kval.com",
-   "url": "https://kval.com/news/local/states-planned-parenthood-affiliates-to-combine-75-workers-losing-jobs",
-   "date": "2026-11-12"
-  },
-  {
    "title": "Woman accused of threatening to Kirk those at anti-abortion booth on local campus",
    "source": "local12.com",
    "url": "https://local12.com/news/local/woman-accused-threatening-kirk-those-at-anti-abortion-booth-campus-alixandra-patterson-panic-charlie-menacing-assassination-police-fbi-butler-county-miami",
@@ -39,15 +33,21 @@
    "date": "2026-11-12"
   },
   {
-   "title": "West Eugene Planned Parenthood remains closed as police investigate hit - and - run",
-   "source": "kezi.com",
-   "url": "https://www.kezi.com/news/local/west-eugene-planned-parenthood-remains-closed-as-police-investigate-hit-and-run/article_d1240b86-e1a6-40c9-9192-6ba8a357fde1.html",
-   "date": "2026-11-11"
+   "title": "State Planned Parenthood affiliates to combine; 75 workers losing jobs",
+   "source": "kval.com",
+   "url": "https://kval.com/news/local/states-planned-parenthood-affiliates-to-combine-75-workers-losing-jobs",
+   "date": "2026-11-12"
   },
   {
    "title": "Oregon two Planned Parenthood announce changes to protect patient access",
    "source": "kezi.com",
    "url": "https://www.kezi.com/news/local/oregons-two-planned-parenthood-announce-changes-to-protect-patient-access/article_5a818757-e98d-4b64-af1e-f9dd1810afc5.html",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Guess Who No Longer Afraid to Go After Planned Parenthood?",
+   "source": "jezebel.com",
+   "url": "https://www.jezebel.com/guess-whos-no-longer-afraid-to-go-after-planned-parenthood",
    "date": "2026-11-11"
   }
  ],
