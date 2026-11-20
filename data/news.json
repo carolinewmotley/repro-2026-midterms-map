@@ -1,7 +1,13 @@
 {
- "updated": "2026-11-19T19:30:16Z",
+ "updated": "2026-11-20T19:08:20Z",
  "source": "GDELT Project",
  "national": [
+  {
+   "title": "Abortion Abolitionist Arrested at UT Dallas",
+   "source": "wcbm.com",
+   "url": "https://wcbm.com/national-headline/abortion-abolitionist-arrested-at-ut-dallas/",
+   "date": "2026-11-20"
+  },
   {
    "title": "Trump DOJ Seeks To Enter Texa Planned Parenthood Medicaid Lawsuit With $1. 8 Billion At Stake",
    "source": "klif.com",
@@ -19,36 +25,19 @@
    "source": "twincities.com",
    "url": "https://www.twincities.com/2026/11/12/mn-abortion-lgbtq-rights-amendment-era/",
    "date": "2026-11-13"
-  },
-  {
-   "title": "Facing financial pressure, Oregon regional Planned Parenthood providers merge to cover state",
-   "source": "heraldandnews.com",
-   "url": "http://www.heraldandnews.com/news/facing-financial-pressure-oregon-s-regional-planned-parenthood-providers-merge-to-cover-state/article_0afc3c1d-3547-42e5-af80-41832eee1e28.html",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Woman accused of threatening to Kirk those at anti-abortion booth on local campus",
-   "source": "local12.com",
-   "url": "https://local12.com/news/local/woman-accused-threatening-kirk-those-at-anti-abortion-booth-campus-alixandra-patterson-panic-charlie-menacing-assassination-police-fbi-butler-county-miami",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Witchcraft, blue wave spells, and abortion cheers: Rick Burgess says the midterms may be God judgment",
-   "source": "theblaze.com",
-   "url": "https://www.theblaze.com/shows/strange-encounters/witchcraft-blue-wave-spells-and-abortion-cheers-rick-burgess-says-the-midterms-may-be-gods-judgment",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "State Planned Parenthood affiliates to combine; 75 workers losing jobs",
-   "source": "kval.com",
-   "url": "https://kval.com/news/local/states-planned-parenthood-affiliates-to-combine-75-workers-losing-jobs",
-   "date": "2026-11-12"
   }
  ],
  "states": {
   "AL": [],
   "AK": [],
-  "AZ": [],
+  "AZ": [
+   {
+    "title": "Arizona Democrats target Down syndrome abortion protection",
+    "source": "christianpost.com",
+    "url": "https://www.christianpost.com/voice/arizona-democrats-target-down-syndrome-abortion-protection.html",
+    "date": "2026-11-20"
+   }
+  ],
   "AR": [
    {
     "title": "Judge allows lawsuit challenging Arkansas abortion ban to move forward",
@@ -114,7 +103,14 @@
   "NY": [],
   "NC": [],
   "ND": [],
-  "OH": [],
+  "OH": [
+   {
+    "title": "Ohio Senate Democrats urge DeWine to veto bills limiting abortion access",
+    "source": "wfmj.com",
+    "url": "https://www.wfmj.com/news/ohio-pennsylvania-news/ohio-senate-democrats-urge-dewine-to-veto-bills-limiting-abortion-access/article_e3babc8a-258c-46d8-add9-3baf620ceda1.html",
+    "date": "2026-11-20"
+   }
+  ],
   "OK": [],
   "OR": [
    {
