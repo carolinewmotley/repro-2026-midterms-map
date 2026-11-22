@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-21T18:01:38Z",
+ "updated": "2026-11-22T18:33:40Z",
  "source": "GDELT Project",
  "national": [
+  {
+   "title": "Pregnant & Protected: A Guide to Ohio Workplace Pregnancy Rights",
+   "source": "pqmonthly.com",
+   "url": "https://pqmonthly.com/pregnant-amp-protected-a-guide-to-ohios-workplace-pregnancy-rights/",
+   "date": "2026-11-22"
+  },
+  {
+   "title": "Late-term abortion foes clear major hurdle",
+   "source": "newburyportnews.com",
+   "url": "https://www.newburyportnews.com/news/regional_news/late-term-abortion-foes-clear-major-hurdle/article_95108d3e-9f18-5be8-a4e2-294732553091.html",
+   "date": "2026-11-21"
+  },
   {
    "title": "Man Forced Her Partner to Take Abortion Pills After She Refused Abortion",
    "source": "lifenews.com",
@@ -21,16 +33,22 @@
    "date": "2026-11-20"
   },
   {
+   "title": "RIGHT SPEAK: Justice Department Conducting Criminal Probe Into Leak of Dobbs Abortion Decision; DOJ Initiates Criminal Probe Into Supreme Court Dobbs Leak: Report",
+   "source": "rightspeak.net",
+   "url": "http://www.rightspeak.net/2026/11/justice-department-conducting-criminal.html",
+   "date": "2026-11-20"
+  },
+  {
+   "title": "Arizona Democrats target Down syndrome abortion protection",
+   "source": "christianpost.com",
+   "url": "https://www.christianpost.com/voice/arizona-democrats-target-down-syndrome-abortion-protection.html",
+   "date": "2026-11-20"
+  },
+  {
    "title": "Abortion Abolitionist Arrested at UT Dallas",
    "source": "wcbm.com",
    "url": "https://wcbm.com/national-headline/abortion-abolitionist-arrested-at-ut-dallas/",
    "date": "2026-11-20"
-  },
-  {
-   "title": "Trump DOJ Seeks To Enter Texa Planned Parenthood Medicaid Lawsuit With $1. 8 Billion At Stake",
-   "source": "klif.com",
-   "url": "https://www.klif.com/2026/11/17/trump-doj-seeks-to-enter-texas-planned-parenthood-medicaid-lawsuit-with-1-8-billion-at-stake/",
-   "date": "2026-11-18"
   }
  ],
  "states": {
@@ -110,6 +128,12 @@
   "NC": [],
   "ND": [],
   "OH": [
+   {
+    "title": "Pregnant & Protected: A Guide to Ohio Workplace Pregnancy Rights",
+    "source": "pqmonthly.com",
+    "url": "https://pqmonthly.com/pregnant-amp-protected-a-guide-to-ohios-workplace-pregnancy-rights/",
+    "date": "2026-11-22"
+   },
    {
     "title": "Ohio Senate Democrats urge DeWine to veto bills limiting abortion access",
     "source": "wfmj.com",
