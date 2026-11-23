@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-22T18:33:40Z",
+ "updated": "2026-11-23T22:42:04Z",
  "source": "GDELT Project",
  "national": [
+  {
+   "title": "The Trump administration is making pregnancy that much harder.",
+   "source": "slate.com",
+   "url": "https://slate.com/news-and-politics/2026/11/trump-administration-pregnancy-miscarriage-protection-fail.html",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "Paxton Takes Abortion Pill Suits Off the Settlement Table Before Texas Democrat Takes Over",
+   "source": "wbap.com",
+   "url": "https://www.wbap.com/2026/11/22/paxton-takes-abortion-pill-suits-off-the-settlement-table-before-texas-democrat-takes-over/",
+   "date": "2026-11-22"
+  },
   {
    "title": "Pregnant & Protected: A Guide to Ohio Workplace Pregnancy Rights",
    "source": "pqmonthly.com",
@@ -30,18 +42,6 @@
    "title": "Republicans Urge Rubio to Oppose Abortion Activist Rebeca Grynspan as UN Leader",
    "source": "lifenews.com",
    "url": "https://www.lifenews.com/2026/11/20/republicans-urge-rubio-to-oppose-abortion-activist-rebeca-grynspan-as-un-leader/",
-   "date": "2026-11-20"
-  },
-  {
-   "title": "RIGHT SPEAK: Justice Department Conducting Criminal Probe Into Leak of Dobbs Abortion Decision; DOJ Initiates Criminal Probe Into Supreme Court Dobbs Leak: Report",
-   "source": "rightspeak.net",
-   "url": "http://www.rightspeak.net/2026/11/justice-department-conducting-criminal.html",
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Arizona Democrats target Down syndrome abortion protection",
-   "source": "christianpost.com",
-   "url": "https://www.christianpost.com/voice/arizona-democrats-target-down-syndrome-abortion-protection.html",
    "date": "2026-11-20"
   },
   {
@@ -169,6 +169,12 @@
   "SD": [],
   "TN": [],
   "TX": [
+   {
+    "title": "Paxton Takes Abortion Pill Suits Off the Settlement Table Before Texas Democrat Takes Over",
+    "source": "wbap.com",
+    "url": "https://www.wbap.com/2026/11/22/paxton-takes-abortion-pill-suits-off-the-settlement-table-before-texas-democrat-takes-over/",
+    "date": "2026-11-22"
+   },
    {
     "title": "Feds plan to take over Texas lawsuit against Planned Parenthood",
     "source": "ksat.com",
