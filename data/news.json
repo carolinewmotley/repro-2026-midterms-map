@@ -1,54 +1,54 @@
 {
- "updated": "2026-11-23T22:42:04Z",
+ "updated": "2026-11-24T21:19:06Z",
  "source": "GDELT Project",
  "national": [
   {
-   "title": "The Trump administration is making pregnancy that much harder.",
-   "source": "slate.com",
-   "url": "https://slate.com/news-and-politics/2026/11/trump-administration-pregnancy-miscarriage-protection-fail.html",
-   "date": "2026-11-23"
+   "title": "Vast abortion rights changes unlikely soon despite Democrat wins",
+   "source": "reporterherald.com",
+   "url": "https://www.reporterherald.com/2026/11/24/democrats-abortion-rights-midterms/",
+   "date": "2026-11-24"
   },
   {
-   "title": "Paxton Takes Abortion Pill Suits Off the Settlement Table Before Texas Democrat Takes Over",
-   "source": "wbap.com",
-   "url": "https://www.wbap.com/2026/11/22/paxton-takes-abortion-pill-suits-off-the-settlement-table-before-texas-democrat-takes-over/",
-   "date": "2026-11-22"
+   "title": "Man in Baker County jail accused of getting 17-year - old girl pregnant",
+   "source": "wcjb.com",
+   "url": "https://www.wcjb.com/2026/11/24/man-baker-county-jail-accused-getting-17-year-old-girl-pregnant/",
+   "date": "2026-11-24"
   },
   {
-   "title": "Pregnant & Protected: A Guide to Ohio Workplace Pregnancy Rights",
-   "source": "pqmonthly.com",
-   "url": "https://pqmonthly.com/pregnant-amp-protected-a-guide-to-ohios-workplace-pregnancy-rights/",
-   "date": "2026-11-22"
+   "title": "Idaho rejected a measure to expand abortion. The Catholic Church is part of the reason why.",
+   "source": "americamagazine.org",
+   "url": "https://www.americamagazine.org/politics-society/dispatches/2026/11/23/idaho-abortion-midterms-catholic-church/",
+   "date": "2026-11-24"
   },
   {
-   "title": "Late-term abortion foes clear major hurdle",
-   "source": "newburyportnews.com",
-   "url": "https://www.newburyportnews.com/news/regional_news/late-term-abortion-foes-clear-major-hurdle/article_95108d3e-9f18-5be8-a4e2-294732553091.html",
-   "date": "2026-11-21"
+   "title": "Texas drops abortion pill lawsuits against out-of - state medical providers",
+   "source": "hppr.org",
+   "url": "https://www.hppr.org/hppr-news/2026-11-23/texas-drops-abortion-pill-lawsuits-against-out-of-state-medical-providers",
+   "date": "2026-11-24"
   },
   {
-   "title": "Man Forced Her Partner to Take Abortion Pills After She Refused Abortion",
+   "title": "Conservatives challenge Va. reproductive care measure in court – NBC4 Washington",
+   "source": "nbcwashington.com",
+   "url": "https://www.nbcwashington.com/news/politics/conservatives-virginia-reproductive-care-measure-court/4187213/",
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Texas Supreme Court dismisses lawsuit over 2021 abortion law",
+   "source": "texastribune.org",
+   "url": "https://www.texastribune.org/2026/11/23/texas-abortion-lawsuit-dismissal-heartbeat-act/",
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Kansas Planned Parenthood Rushes Woman to Hospital After Botched Abortion",
    "source": "lifenews.com",
-   "url": "https://www.lifenews.com/2026/11/20/man-forced-her-partner-to-take-abortion-pills-after-she-refused-abortion/",
-   "date": "2026-11-20"
+   "url": "https://www.lifenews.com/2026/11/23/kansas-planned-parenthood-rushes-woman-to-hospital-after-botched-abortion/",
+   "date": "2026-11-24"
   },
   {
-   "title": "Abortion Activists Erect 20-Foot Tall IUD to Promote Their Agenda",
+   "title": "They Say Theyre Pro-Choice, But Hate Pregnancy Centers Giving Women Real Choices",
    "source": "lifenews.com",
-   "url": "https://www.lifenews.com/2026/11/20/abortion-activists-erect-20-foot-tall-iud-to-promote-their-agenda/",
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Republicans Urge Rubio to Oppose Abortion Activist Rebeca Grynspan as UN Leader",
-   "source": "lifenews.com",
-   "url": "https://www.lifenews.com/2026/11/20/republicans-urge-rubio-to-oppose-abortion-activist-rebeca-grynspan-as-un-leader/",
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Abortion Abolitionist Arrested at UT Dallas",
-   "source": "wcbm.com",
-   "url": "https://wcbm.com/national-headline/abortion-abolitionist-arrested-at-ut-dallas/",
-   "date": "2026-11-20"
+   "url": "https://www.lifenews.com/2026/11/23/they-say-theyre-pro-choice-but-hate-pregnancy-centers-giving-women-real-choices/",
+   "date": "2026-11-24"
   }
  ],
  "states": {
@@ -83,11 +83,25 @@
   "FL": [],
   "GA": [],
   "HI": [],
-  "ID": [],
+  "ID": [
+   {
+    "title": "Idaho rejected a measure to expand abortion. The Catholic Church is part of the reason why.",
+    "source": "americamagazine.org",
+    "url": "https://www.americamagazine.org/politics-society/dispatches/2026/11/23/idaho-abortion-midterms-catholic-church/",
+    "date": "2026-11-24"
+   }
+  ],
   "IL": [],
   "IN": [],
   "IA": [],
-  "KS": [],
+  "KS": [
+   {
+    "title": "Kansas Planned Parenthood Rushes Woman to Hospital After Botched Abortion",
+    "source": "lifenews.com",
+    "url": "https://www.lifenews.com/2026/11/23/kansas-planned-parenthood-rushes-woman-to-hospital-after-botched-abortion/",
+    "date": "2026-11-24"
+   }
+  ],
   "KY": [],
   "LA": [],
   "ME": [
@@ -169,6 +183,18 @@
   "SD": [],
   "TN": [],
   "TX": [
+   {
+    "title": "Texas drops abortion pill lawsuits against out-of - state medical providers",
+    "source": "hppr.org",
+    "url": "https://www.hppr.org/hppr-news/2026-11-23/texas-drops-abortion-pill-lawsuits-against-out-of-state-medical-providers",
+    "date": "2026-11-24"
+   },
+   {
+    "title": "Texas Supreme Court dismisses lawsuit over 2021 abortion law",
+    "source": "texastribune.org",
+    "url": "https://www.texastribune.org/2026/11/23/texas-abortion-lawsuit-dismissal-heartbeat-act/",
+    "date": "2026-11-24"
+   },
    {
     "title": "Paxton Takes Abortion Pill Suits Off the Settlement Table Before Texas Democrat Takes Over",
     "source": "wbap.com",
