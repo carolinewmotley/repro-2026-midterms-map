@@ -1,54 +1,54 @@
 {
- "updated": "2026-11-24T21:19:06Z",
+ "updated": "2026-11-25T20:29:39Z",
  "source": "GDELT Project",
  "national": [
   {
-   "title": "Vast abortion rights changes unlikely soon despite Democrat wins",
-   "source": "reporterherald.com",
-   "url": "https://www.reporterherald.com/2026/11/24/democrats-abortion-rights-midterms/",
-   "date": "2026-11-24"
+   "title": "Disney Hexed and abortion use the same pink playbook",
+   "source": "news.crossmap.com",
+   "url": "https://news.crossmap.com/2026/11/25/disney-s-hexed-and-abortion-use-the-same-pink-playbook/",
+   "date": "2026-11-25"
   },
   {
-   "title": "Man in Baker County jail accused of getting 17-year - old girl pregnant",
-   "source": "wcjb.com",
-   "url": "https://www.wcjb.com/2026/11/24/man-baker-county-jail-accused-getting-17-year-old-girl-pregnant/",
-   "date": "2026-11-24"
+   "title": "Disagree with abortion abolitionists? Youre a feminist.",
+   "source": "christianpost.com",
+   "url": "https://www.christianpost.com/voice/disagree-with-abortion-abolitionists-youre-a-feminist.html",
+   "date": "2026-11-25"
   },
   {
-   "title": "Idaho rejected a measure to expand abortion. The Catholic Church is part of the reason why.",
-   "source": "americamagazine.org",
-   "url": "https://www.americamagazine.org/politics-society/dispatches/2026/11/23/idaho-abortion-midterms-catholic-church/",
-   "date": "2026-11-24"
+   "title": "Florida AG pushes to revoke doctor license over suspected illegal abortions",
+   "source": "foxnews.com",
+   "url": "https://www.foxnews.com/us/florida-ag-calls-doctor-lose-medical-license-149-alleged-illegal-abortions",
+   "date": "2026-11-25"
   },
   {
-   "title": "Texas drops abortion pill lawsuits against out-of - state medical providers",
-   "source": "hppr.org",
-   "url": "https://www.hppr.org/hppr-news/2026-11-23/texas-drops-abortion-pill-lawsuits-against-out-of-state-medical-providers",
-   "date": "2026-11-24"
+   "title": "United Nations candidate could push for global right to abortion, lawmakers warn – Catholic World Report",
+   "source": "catholicworldreport.com",
+   "url": "https://www.catholicworldreport.com/2026/11/24/united-nations-candidate-could-push-for-global-right-to-abortion-lawmakers-warn/",
+   "date": "2026-11-25"
   },
   {
-   "title": "Conservatives challenge Va. reproductive care measure in court – NBC4 Washington",
-   "source": "nbcwashington.com",
-   "url": "https://www.nbcwashington.com/news/politics/conservatives-virginia-reproductive-care-measure-court/4187213/",
-   "date": "2026-11-24"
+   "title": "Whatcom County trio accused of trying to force abortion by drugging woman",
+   "source": "columbian.com",
+   "url": "https://www.columbian.com/news/2026/nov/24/whatcom-county-trio-accused-of-trying-to-force-abortion-by-drugging-woman/",
+   "date": "2026-11-25"
   },
   {
-   "title": "Texas Supreme Court dismisses lawsuit over 2021 abortion law",
-   "source": "texastribune.org",
-   "url": "https://www.texastribune.org/2026/11/23/texas-abortion-lawsuit-dismissal-heartbeat-act/",
-   "date": "2026-11-24"
+   "title": "United Nations Candidate Could Push for Global Right to Abortion, Lawmakers Warn",
+   "source": "ncregister.com",
+   "url": "https://www.ncregister.com/cna/united-nations-candidate-could-push-for-global-right-to-abortion",
+   "date": "2026-11-25"
   },
   {
-   "title": "Kansas Planned Parenthood Rushes Woman to Hospital After Botched Abortion",
-   "source": "lifenews.com",
-   "url": "https://www.lifenews.com/2026/11/23/kansas-planned-parenthood-rushes-woman-to-hospital-after-botched-abortion/",
-   "date": "2026-11-24"
+   "title": "Tom Green County Bans Abortion - Related Activities",
+   "source": "sanangelolive.com",
+   "url": "https://sanangelolive.com/news/county/2026-11-24/tom-green-county-bans-abortion-related-activities",
+   "date": "2026-11-25"
   },
   {
-   "title": "They Say Theyre Pro-Choice, But Hate Pregnancy Centers Giving Women Real Choices",
-   "source": "lifenews.com",
-   "url": "https://www.lifenews.com/2026/11/23/they-say-theyre-pro-choice-but-hate-pregnancy-centers-giving-women-real-choices/",
-   "date": "2026-11-24"
+   "title": "Mitochondrial DNA retention in sperm associated with reduced reproductive potential",
+   "source": "news-medical.net",
+   "url": "https://www.news-medical.net/news/20261124/Mitochondrial-DNA-retention-in-sperm-associated-with-reduced-reproductive-potential.aspx",
+   "date": "2026-11-25"
   }
  ],
  "states": {
@@ -80,7 +80,14 @@
   "CO": [],
   "CT": [],
   "DE": [],
-  "FL": [],
+  "FL": [
+   {
+    "title": "Florida AG pushes to revoke doctor license over suspected illegal abortions",
+    "source": "foxnews.com",
+    "url": "https://www.foxnews.com/us/florida-ag-calls-doctor-lose-medical-license-149-alleged-illegal-abortions",
+    "date": "2026-11-25"
+   }
+  ],
   "GA": [],
   "HI": [],
   "ID": [
@@ -184,6 +191,12 @@
   "TN": [],
   "TX": [
    {
+    "title": "Texas Supreme Court dismisses challenge to abortion restrictions",
+    "source": "sacurrent.com",
+    "url": "https://www.sacurrent.com/news/texas-news/texas-supreme-court-dismisses-challenge-to-abortion-restrictions/",
+    "date": "2026-11-24"
+   },
+   {
     "title": "Texas drops abortion pill lawsuits against out-of - state medical providers",
     "source": "hppr.org",
     "url": "https://www.hppr.org/hppr-news/2026-11-23/texas-drops-abortion-pill-lawsuits-against-out-of-state-medical-providers",
@@ -206,12 +219,6 @@
     "source": "ksat.com",
     "url": "https://www.ksat.com/news/texas/2026/11/08/feds-plan-to-take-over-texas-lawsuit-against-planned-parenthood/",
     "date": "2026-11-08"
-   },
-   {
-    "title": "At the dawn of a new Texas frontier, advocates consider possibilities for abortion rights",
-    "source": "kwbu.org",
-    "url": "https://www.kwbu.org/news-from-across-texas/2026-11-07/at-the-dawn-of-a-new-texas-frontier-advocates-consider-possibilities-for-abortion-rights",
-    "date": "2026-11-07"
    }
   ],
   "UT": [],
