@@ -1,7 +1,19 @@
 {
- "updated": "2026-11-25T20:29:39Z",
+ "updated": "2026-11-26T20:13:44Z",
  "source": "GDELT Project",
  "national": [
+  {
+   "title": "Lawsuit challenges Virginia abortion rights amendment vote, could delay certification",
+   "source": "wset.com",
+   "url": "https://wset.com/news/local/lawsuit-challenges-virginia-abortion-rights-amendment-vote-could-delay-certification-politics-election-november-2026-reproductive-rights",
+   "date": "2026-11-26"
+  },
+  {
+   "title": "UK Christian pro-life advocate will stand trial for silently praying near abortion clinic",
+   "source": "catholicworldreport.com",
+   "url": "https://www.catholicworldreport.com/2026/11/25/uk-christian-pro-life-advocate-will-stand-trial-for-silently-praying-near-abortion-clinic/",
+   "date": "2026-11-26"
+  },
   {
    "title": "Disney Hexed and abortion use the same pink playbook",
    "source": "news.crossmap.com",
@@ -36,18 +48,6 @@
    "title": "United Nations Candidate Could Push for Global Right to Abortion, Lawmakers Warn",
    "source": "ncregister.com",
    "url": "https://www.ncregister.com/cna/united-nations-candidate-could-push-for-global-right-to-abortion",
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Tom Green County Bans Abortion - Related Activities",
-   "source": "sanangelolive.com",
-   "url": "https://sanangelolive.com/news/county/2026-11-24/tom-green-county-bans-abortion-related-activities",
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Mitochondrial DNA retention in sperm associated with reduced reproductive potential",
-   "source": "news-medical.net",
-   "url": "https://www.news-medical.net/news/20261124/Mitochondrial-DNA-retention-in-sperm-associated-with-reduced-reproductive-potential.aspx",
    "date": "2026-11-25"
   }
  ],
@@ -224,6 +224,12 @@
   "UT": [],
   "VT": [],
   "VA": [
+   {
+    "title": "Lawsuit challenges Virginia abortion rights amendment vote, could delay certification",
+    "source": "wset.com",
+    "url": "https://wset.com/news/local/lawsuit-challenges-virginia-abortion-rights-amendment-vote-could-delay-certification-politics-election-november-2026-reproductive-rights",
+    "date": "2026-11-26"
+   },
    {
     "title": "Time to fight Virginia on abortion in the courts",
     "source": "americanthinker.com",
